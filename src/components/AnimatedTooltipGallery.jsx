@@ -3,10 +3,10 @@ import { motion } from "framer-motion";
 import "./AnimatedTooltipGallery.css"
 
 const images = [
-  { src: '../../public/logoReact.svg', alt: "React", tooltip: "React"},
-  { src: '../../public/logoJS.png', alt: "JavaScript", tooltip: "JavaScript"},
-  { src: '../../public/logoHTML.png', alt: "HTML", tooltip: "HTML"},
-  { src: '../../public/logoCSS.png', alt: "CSS", tooltip: "CSS"}
+  { src: 'https://raw.githubusercontent.com/jakeraes18/Portfolio/91d6e5a11a66df75d6e922874975508909a5514c/public/logoReact.svg', alt: "React", tooltip: "React"},
+  { src: 'https://raw.githubusercontent.com/jakeraes18/Portfolio/refs/heads/main/public/logoJS.png', alt: "JavaScript", tooltip: "JavaScript"},
+  { src: 'https://raw.githubusercontent.com/jakeraes18/Portfolio/refs/heads/main/public/logoHTML.png', alt: "HTML", tooltip: "HTML"},
+  { src: 'https://raw.githubusercontent.com/jakeraes18/Portfolio/refs/heads/main/public/logoCSS.png', alt: "CSS", tooltip: "CSS"}
 ];
 
 const AnimatedTooltipGallery = () => {
