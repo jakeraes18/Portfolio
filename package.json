@@ -23,6 +23,7 @@
     "tailwind-merge": "^3.0.2"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.16",
     "eslint": "^9.21.0",
     "eslint-plugin-react": "^7.37.4",
